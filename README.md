@@ -6,6 +6,7 @@ Here is the accuracy report of VGG:<br>
 <br>
 Here is the accuracy report of SlimAlexNet:<br>
 <img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="slim_net_accuracy_report.png" width = "400px" height="250px" ></img>
-
-
+<br>
+Here is the accuracy report of ResNet:<br>
+<img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="Resnet_accuracy_report.png" width = "400px" height="250px" ></img>
 
