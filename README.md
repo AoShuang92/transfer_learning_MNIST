@@ -6,3 +6,4 @@ Here is the accuracy report of VGG:
 
 
 
+<img align='center' style="border-color:gray;border-width:2px;border-style:dashed"   src='VGG_accuracy_report.png' padding='5px' height="400px"></img>
